@@ -3,8 +3,8 @@
 #### Notes on all three parts
 
 #### Part 1
-  (For HTML)[https://validator.w3.org/]\
-  (For CSS)[https://jigsaw.w3.org/css-validator/]
+- (For HTML)[https://validator.w3.org/]\
+- (For CSS)[https://jigsaw.w3.org/css-validator/]
 - Get free photos from (unsplash.com)[https://unsplash.com/]
 - Get free photos, videos from (pexels.com)[https://pexels.com/]
 - Check (caniuse.com)[https://caniuse.com/#home] to see how different browsers support html elements and css features.
@@ -38,6 +38,7 @@ html {
 font-size: 62.5%
 }
 ```
+- Use `Emmet Abbreviations` like: `div.boxes>.box*3` 
 
 
 
